@@ -1,0 +1,21 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.streamlit/secrets.toml
+
+# Bronze e prata são grandes e reconstrutíveis: `cli.py atualizar` e
+# `cli.py curar` refazem a partir da fonte, e o manifesto versionado guarda
+# URL, hash e data de cada arquivo para reproduzir exatamente o mesmo estado.
+Dados/bronze/
+Dados/prata/
+
+# A camada ouro VAI versionada, de propósito. São ~49 MB e é o que faz
+# `git clone` seguido de `cli.py painel` mostrar o painel completo na hora,
+# sem baixar 2 GB da ANEEL nem exigir conta no Copernicus.
+
+# Documento do processo seletivo: é da Zeki, não vai para repositório público.
+Zeki - Desafio Técnico*.pdf
+st_err.log
+st_out.log
+Dados/atualizacao.json

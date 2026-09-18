@@ -1,0 +1,90 @@
+{
+  "aneel:indqual-municipio": {
+    "arquivo": "indqual-municipio.csv",
+    "baixado_em": "2026-09-14T23:35:26+00:00",
+    "hash": "0440c3248b344afe7a3afdd2977ecbcd",
+    "last_modified": "2026-09-09T11:06:11.923440",
+    "size": 2182847,
+    "url": "https://dadosabertos.aneel.gov.br/dataset/db9c9f60-b3b5-4504-9dfe-2637922d53ce/resource/3f841488-80a8-42f2-a6ca-e0c593b228de/download/indqual-municipio.csv"
+  },
+  "aneel:interrupcoes:2017": {
+    "arquivo": "interrupcoes-2017.parquet",
+    "baixado_em": "2026-09-14T23:39:01+00:00",
+    "hash": null,
+    "last_modified": "2026-08-04T18:09:48.037636",
+    "size": 73422044,
+    "url": "https://dadosabertos.aneel.gov.br/dataset/ccb25653-f07b-4f28-84c2-62a89d1f5a56/resource/92198821-d0a9-4279-985b-320e18c9e6c0/download/interrupcoes-energia-eletrica-2017.parquet"
+  },
+  "aneel:interrupcoes:2018": {
+    "arquivo": "interrupcoes-2018.parquet",
+    "baixado_em": "2026-09-14T23:39:28+00:00",
+    "hash": null,
+    "last_modified": "2026-08-04T18:12:25.523908",
+    "size": 191217485,
+    "url": "https://dadosabertos.aneel.gov.br/dataset/ccb25653-f07b-4f28-84c2-62a89d1f5a56/resource/d669e835-0b8e-47e4-94b4-a3012b3abfc6/download/interrupcoes-energia-eletrica-2018.parquet"
+  },
+  "aneel:interrupcoes:2019": {
+    "arquivo": "interrupcoes-2019.parquet",
+    "baixado_em": "2026-09-14T23:39:46+00:00",
+    "hash": null,
+    "last_modified": "2026-08-04T18:11:33.135185",
+    "size": 206870219,
+    "url": "https://dadosabertos.aneel.gov.br/dataset/ccb25653-f07b-4f28-84c2-62a89d1f5a56/resource/140e1704-9533-4004-b8ca-3d38cc8e4ba2/download/interrupcoes-energia-eletrica-2019.parquet"
+  },
+  "aneel:interrupcoes:2020": {
+    "arquivo": "interrupcoes-2020.parquet",
+    "baixado_em": "2026-09-14T23:40:09+00:00",
+    "hash": null,
+    "last_modified": "2026-08-04T18:07:30.304655",
+    "size": 209400743,
+    "url": "https://dadosabertos.aneel.gov.br/dataset/ccb25653-f07b-4f28-84c2-62a89d1f5a56/resource/19b932c7-08a4-48a2-a073-ca339b13deb3/download/interrupcoes-energia-eletrica-2020.parquet"
+  },
+  "aneel:interrupcoes:2021": {
+    "arquivo": "interrupcoes-2021.parquet",
+    "baixado_em": "2026-09-14T23:40:39+00:00",
+    "hash": null,
+    "last_modified": "2026-08-04T18:11:59.788704",
+    "size": 212841509,
+    "url": "https://dadosabertos.aneel.gov.br/dataset/ccb25653-f07b-4f28-84c2-62a89d1f5a56/resource/011e0086-8b2f-4fbc-a32b-f7c0f7bc9957/download/interrupcoes-energia-eletrica-2021.parquet"
+  },
+  "aneel:interrupcoes:2022": {
+    "arquivo": "interrupcoes-2022.parquet",
+    "baixado_em": "2026-09-14T23:41:03+00:00",
+    "hash": null,
+    "last_modified": "2026-08-04T18:13:22.270351",
+    "size": 229345777,
+    "url": "https://dadosabertos.aneel.gov.br/dataset/ccb25653-f07b-4f28-84c2-62a89d1f5a56/resource/f40b948c-81a3-4d56-8e35-0af9c2533178/download/interrupcoes-energia-eletrica-2022.parquet"
+  },
+  "aneel:interrupcoes:2023": {
+    "arquivo": "interrupcoes-2023.parquet",
+    "baixado_em": "2026-09-14T23:42:01+00:00",
+    "hash": null,
+    "last_modified": "2026-08-04T18:12:57.424098",
+    "size": 246047631,
+    "url": "https://dadosabertos.aneel.gov.br/dataset/ccb25653-f07b-4f28-84c2-62a89d1f5a56/resource/ddc26540-cd8c-4eef-a1ad-a234d24ed9c4/download/interrupcoes-energia-eletrica-2023.parquet"
+  },
+  "aneel:interrupcoes:2024": {
+    "arquivo": "interrupcoes-2024.parquet",
+    "baixado_em": "2026-09-14T23:42:32+00:00",
+    "hash": null,
+    "last_modified": "2026-08-04T18:11:03.780312",
+    "size": 254346970,
+    "url": "https://dadosabertos.aneel.gov.br/dataset/ccb25653-f07b-4f28-84c2-62a89d1f5a56/resource/fc5ca52c-329c-4443-a2d6-08ccec711ade/download/interrupcoes-energia-eletrica-2024.parquet"
+  },
+  "aneel:interrupcoes:2025": {
+    "arquivo": "interrupcoes-2025.parquet",
+    "baixado_em": "2026-09-14T23:35:17+00:00",
+    "hash": null,
+    "last_modified": "2026-08-04T18:08:03.641806",
+    "size": 272507818,
+    "url": "https://dadosabertos.aneel.gov.br/dataset/ccb25653-f07b-4f28-84c2-62a89d1f5a56/resource/691de320-cb3d-471b-b9ec-8c1b86af8c83/download/interrupcoes-energia-eletrica-2025.parquet"
+  },
+  "aneel:interrupcoes:2026": {
+    "arquivo": "interrupcoes-2026.parquet",
+    "baixado_em": "2026-09-14T23:42:51+00:00",
+    "hash": null,
+    "last_modified": "2026-09-04T14:21:49.648468",
+    "size": 204708716,
+    "url": "https://dadosabertos.aneel.gov.br/dataset/ccb25653-f07b-4f28-84c2-62a89d1f5a56/resource/cf722d0b-aa04-4681-bcd9-8a737e857182/download/interrupcoes-energia-eletrica-2026.parquet"
+  }
+}

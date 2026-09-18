@@ -1,0 +1,20 @@
+# Consulta e armazenamento
+duckdb==1.5.5
+pyarrow==25.0.1
+pandas==3.0.5
+
+# Ingestão
+requests==2.34.2
+cdsapi==0.7.7
+xarray==2026.7.0
+netCDF4==1.7.4
+
+# Geometria
+shapely==2.1.2
+
+# Painel
+streamlit==1.63.0
+plotly==7.0.0
+
+# Testes
+pytest==9.1.1
